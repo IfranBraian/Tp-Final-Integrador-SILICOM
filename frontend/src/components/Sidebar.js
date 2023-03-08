@@ -27,11 +27,6 @@ function Sidebar() {
           </ul>
         </div>
       </div>
-
-      
-        
-    
-        
         </>
             )};
 export default Sidebar;
